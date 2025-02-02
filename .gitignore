@@ -25,7 +25,8 @@ share/python-wheels/
 .installed.cfg
 *.egg
 # MANIFEST
-# auth_secret.yaml
+*/auth_secret.yaml
+*/gateway_secret.yaml
 init.sql
 
 # PyInstaller
